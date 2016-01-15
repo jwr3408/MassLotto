@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_next_item.png",
+        "source": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_previous_item.png",
+        "source": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_numbers.xml",
+        "source": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\src\\main\\res\\layout\\activity_check_numbers.xml"
+    },
+    {
+        "merged": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_menu.xml",
+        "source": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_number_generator.xml",
+        "source": "D:\\Rogers\\Documents\\AndroidStudioProjects\\MassLotto\\app\\src\\main\\res\\layout\\activity_number_generator.xml"
+    }
+]

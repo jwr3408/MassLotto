@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MassLotto</string>
+    <string name="title_activity_generate_numbers">Number Generator</string>
+    <string name="title_activity_check_numbers">Check Numbers</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="button_generate_numbers_text">Generate Numbers</string>
+    <string name="button_check_numbers_text">Check Numbers</string>
+    <string name="button_set_settings_text">Settings</string>
+    <string name="choose_color_background">Choose Background Color</string>
+    <string name="string_default_game">Default Game</string>
+    <string name="string_remove_bottom">Remove Bottom Numbers</string>
+    <string name="string_show_only_top">Show Only Top Bonus Numbers</string>
+    <string name="string_select_game">Select Game</string>
+    <string name="string_check_numbers_url">Game URL</string>
+    <string name="string_check_numbers_url_label">Click Link to Check Numbers</string>
+    <string name="numbers_label">Numbers</string>
+    <string name="bonus_label">Bonus Ball</string>
+    <string name="button_next">Next</string>
+    <string name="button_back">Back</string>
+    <string name="empty_text">-</string>
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_check_numbers">Check Numbers</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_generate_numbers">Number Generator</string>
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="color_blue">#95B3D7</color>
+    <color name="color_green">#A2DF90</color>
+    <color name="color_grey">#808080</color>
+    <color name="color_orange">#FFA500</color>
+    <color name="color_pink">#FFC0CB</color>
+    <color name="color_purple">#B1A0C7</color>
+    <color name="color_red">#CC3C3C</color>
+    <color name="color_yellow">#FFFF00</color>
+    <color name="color_old_money">#337147</color>
+
+    <string-array name="spinnerColorsArray">
+        <item>White</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Grey</item>
+        <item>Orange</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="spinnerTopArray">
+        <item>All</item>
+        <item>Top 5</item>
+        <item>Top 10</item>
+        <item>Top 15</item>
+    </string-array>
+    <string-array name="spinnerBottomArray">
+        <item>All</item>
+        <item>Bottom 5</item>
+        <item>Bottom 10</item>
+        <item>Bottom 15</item>
+    </string-array>
+
+</resources>
