@@ -13,7 +13,7 @@ public class GameOpenHelper extends SQLiteOpenHelper {
 
 	// Database Information
 	private static String DB_NAME = "MassLotto.db";
-	private static int DB_VERSION = 5;
+	private static int DB_VERSION = 6;
 
 	// Game Information
 	public static final String TABLE_GAME = "Game";
@@ -104,8 +104,8 @@ public class GameOpenHelper extends SQLiteOpenHelper {
         int maxBonus = 15;
         boolean allowDuplicates = false;
         String gameUrl = "http://www.masslottery.com/games/lottery/megamillions.html";
-        String bottom15 = "19,23,52,54,57,1,4,40,71,6,9,17,21,30,33";
-        String top15 = "3,6,7,1,11,15,12,2,4,5,9,13,14,10,8";
+        String bottom15 = "34,43,13,46,60,1,3,4,16,28,37,67,75,10,23";
+        String top15 = "15,4,7,9,3,8,12,13,14,1,2,5,10,6,11";
         String specialNameMain = "";
         String specialNameBonus = "MegaBall";
         boolean isDemoOnly = false;
@@ -124,8 +124,8 @@ public class GameOpenHelper extends SQLiteOpenHelper {
         int maxBonus = 26;
         boolean allowDuplicates = false;
         String gameUrl = "http://www.masslottery.com/games/lottery/powerball.html";
-        String bottom15 = "3,56,20,27,41,44,6,26,57,21,22,23,35,37,43";
-        String top15 = "35,26,18,22,1,9,12,15,16,17,19,24,27,28,33";
+        String bottom15 = "60,61,65,66,67,63,64,69,3,37,59,62,68,5,23";
+        String top15 = "7,17,22,1,10,15,11,12,18,19,25,33,2,5,6";
         String specialNameMain = "";
         String specialNameBonus = "Powerball";
         boolean isDemoOnly = false;
@@ -144,8 +144,8 @@ public class GameOpenHelper extends SQLiteOpenHelper {
         int maxBonus = 18;
         boolean allowDuplicates = false;
         String gameUrl = "http://www.masslottery.com/games/lottery/lucky-for-life.html";
-        String bottom15 = "48,44,46,47,5,45,30,9,21,34,37,8,11,41,26";
-        String top15 = "17,5,6,16,13,15,18,32,3,4,21,24,28,29,35";
+        String bottom15 = "34,11,13,35,5,6,15,27,30,41,3,9,10,14,20";
+        String top15 = "5,6,18,12,17,4,13,15,7,10,14,16,2,3,9";
         String specialNameMain = "";
         String specialNameBonus = "Lucky Ball";
         boolean isDemoOnly = false;
@@ -164,7 +164,7 @@ public class GameOpenHelper extends SQLiteOpenHelper {
         int maxBonus = 0;
         boolean allowDuplicates = false;
         String gameUrl = "http://www.masslottery.com/games/lottery/megabucks-doubler.html";
-        String bottom15 = "47,43,40,41,45,10,44,14,21,46,4,19,31,39,2";
+        String bottom15 = "45,43,10,40,42,46,22,38,47,1,44,23,32,33,37";
         String top15 = "";
         String specialNameMain = "";
         String specialNameBonus = "";
@@ -184,7 +184,7 @@ public class GameOpenHelper extends SQLiteOpenHelper {
         int maxBonus = 0;
         boolean allowDuplicates = false;
         String gameUrl = "http://www.masslottery.com/games/lottery/mass-cash.html";
-        String bottom15 = "20,18,13,14,28,31,15,5,7,9,3,30,32,35,34";
+        String bottom15 = "1,20,6,14,27,32,15,10,12,24,30,34,16,18,9";
         String top15 = "";
         String specialNameMain = "";
         String specialNameBonus = "";
