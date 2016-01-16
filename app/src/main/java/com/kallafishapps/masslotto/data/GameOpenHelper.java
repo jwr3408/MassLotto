@@ -139,9 +139,9 @@ public class GameOpenHelper extends SQLiteOpenHelper {
         String gameName = "Lucky For Life";
         int minMain = 1;
         int mainPicks = 5;
-        int maxMain = 43;
+        int maxMain = 48;
         int bonusPicks = 1;
-        int maxBonus = 43;
+        int maxBonus = 18;
         boolean allowDuplicates = false;
         String gameUrl = "http://www.masslottery.com/games/lottery/lucky-for-life.html";
         String bottom15 = "48,44,46,47,5,45,30,9,21,34,37,8,11,41,26";
@@ -158,10 +158,10 @@ public class GameOpenHelper extends SQLiteOpenHelper {
     {
         String gameName = "MegaBucks Doubler";
         int minMain = 1;
-        int mainPicks = 5;
-        int maxMain = 59;
-        int bonusPicks = 1;
-        int maxBonus = 35;
+        int mainPicks = 6;
+        int maxMain = 49;
+        int bonusPicks = 0;
+        int maxBonus = 0;
         boolean allowDuplicates = false;
         String gameUrl = "http://www.masslottery.com/games/lottery/megabucks-doubler.html";
         String bottom15 = "47,43,40,41,45,10,44,14,21,46,4,19,31,39,2";
